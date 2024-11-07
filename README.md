@@ -12,8 +12,9 @@ Repositoriosta löytyvät yhdistetyt päiväkirjan osiot.
 
 Repositoriosta löytyy:
 
-> - .github-tiedostot
+
 > - [paivakirja1.md](paivakirja1.md)
 > - [paivakirja2.md](paivakirja2.md)
 > - [paivakirja3.md](paivakirja3.md)
 > - README.md
+> - .github-tiedostot

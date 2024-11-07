@@ -2,6 +2,8 @@
 
 [Takaisin etusivulle](README.md)
 
+[Päiväkirja osa 1](paivakirja1.md) [Päiväkirja osa 3](paivakirja3.md)
+
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
 Koska gitin ja Githubin käyttö oli minulle uutta, käytännössä kaikki kurssilla oli aluksi vaikeaa. Gitin konseptin hahmottaminen oli sinällään helppoa, mutta sen ymmärtäminen käytännön tasolla kesti varsin kauan. Suhteellisen helppoa oli ymmärtää virheilmoituksia, joita git antoi yrittäessäni pushata paikallista repositoriota Githubiin.

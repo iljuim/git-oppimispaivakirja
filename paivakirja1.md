@@ -2,6 +2,8 @@
 
 [Takaisin etusivulle](README.md)
 
+[Päiväkirja osa 2](paivakirja2.md) [Päiväkirja osa 3](paivakirja3.md)
+
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
 ## Oppimispäiväkirja osa 1 #

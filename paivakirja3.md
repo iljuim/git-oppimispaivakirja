@@ -2,6 +2,8 @@
 
 [Takaisin etusivulle](README.md)
 
+[Päiväkirja osa 1](paivakirja1.md) [Päiväkirja osa 2](paivakirja2.md)
+
 __Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
 
 Versionhallinnassa on ilmeisiä hyötyjä yksintyöskentelylle. Se auttaa pitämään kirjaa muutoksista, joita on tehnyt, kehittämään uusia ominaisuuksia omassa haarassaan ja päivittämään main-haaran tuotetta bugien yms. kannalta ilman, että nämä haarat missään vaiheessa aiheuttavat konflikteja jo käytössä olevalle tuotteelle tai kehityksessä oleville lisäosille. Tiimityössä olennainen muutosten jäljitettävyys on hyödyllinen myös yksintyöskentelyssä.
