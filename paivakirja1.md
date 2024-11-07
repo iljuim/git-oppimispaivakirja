@@ -1,5 +1,7 @@
 # Oppimispäiväkirja: Paikallinen git
 
+[Takaisin etusivulle](README.md)
+
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet?__
 
 ## Oppimispäiväkirja osa 1 #
@@ -29,3 +31,6 @@ Mielestäni ko. analogia kuvaa gitin toimintaa suhteellisen hyvin.
 | git reset | Poistaa git add–komennolla alustetut tiedostot seuraavasta tallennuksesta. Jos kommennossa ei tarkenna tiedostoa, komento poistaa kaikki alustetut tiedostot. |
 | git revert | Käytännössä anti-commit–komento. Komennolla tehdään muutos, joka peruuttaa sille parametrina annetun tallennuksen (commitin) kokonaan. |
 | git status | Antaa tilannekuvan tilanteesta komennon antohetkellä. Tilannekuva pitää sisällään tiedon siitä, missä repositorion haarassa parhaillaan ollaan onko haara ajan tasalla suhteessa mahdolliseen etärepositorioon ja onko repositoriossa muutoksia, joita ei ole vielä alustettu commit–komennolle. |
+
+
+[Takaisin etusivulle](README.md)

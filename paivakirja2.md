@@ -1,5 +1,7 @@
 # Oppimispäiväkirja: Hajautettu git
 
+[Takaisin etusivulle](README.md)
+
 __Mikä osion tehtävissä oli vaikeaa ja mikä helppoa? Mikä auttoi minua oppimaan? Miten selvitin esteet, jotka vaikuttivat tehtävän suorittamiseen?__
 
 Koska gitin ja Githubin käyttö oli minulle uutta, käytännössä kaikki kurssilla oli aluksi vaikeaa. Gitin konseptin hahmottaminen oli sinällään helppoa, mutta sen ymmärtäminen käytännön tasolla kesti varsin kauan. Suhteellisen helppoa oli ymmärtää virheilmoituksia, joita git antoi yrittäessäni pushata paikallista repositoriota Githubiin.
@@ -39,3 +41,6 @@ Päädyin myös luomaan uuden repositorion Harjoitus 5:ä varten, jotta saisin t
 | git branch | Jos komennon antaa ilman parametria, se listaa kaikki repositorion haarat. Jos komennolle antaa parametrin, se luo uuden repositorion parametrin nimellä. |
 | git switch | Komento ei itsessään tee mitään vaan se tarvitsee parametrin toimiakseen. Parametrin on oltava jokin repositorion haaran nimi ja validin parametrin saadessaan komento vaihtaa parametrina annettuun repositorioon. |
 | git log | Log-komento listaa repositorioon tehdyt commitit. Siihen voi liittää muita komentoja kuten --graph-komennon, joka lisää commit-komentoihin pientä visualisointia. Opintojakson kakkosmoduulissa erityisesti komentojen --stat --graph --oneline avulla tämä komento auttoi navigoimaan versiohistoriaa. |
+
+
+[Takaisin etusivulle](README.md)

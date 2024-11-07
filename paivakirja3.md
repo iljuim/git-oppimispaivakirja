@@ -1,5 +1,7 @@
 # Oppimispäiväkirja: Git projektissa
 
+[Takaisin etusivulle](README.md)
+
 __Mitä hyötyä voisi olla versionhallinnasta, jos kehität projektia yksin?__
 
 Versionhallinnassa on ilmeisiä hyötyjä yksintyöskentelylle. Se auttaa pitämään kirjaa muutoksista, joita on tehnyt, kehittämään uusia ominaisuuksia omassa haarassaan ja päivittämään main-haaran tuotetta bugien yms. kannalta ilman, että nämä haarat missään vaiheessa aiheuttavat konflikteja jo käytössä olevalle tuotteelle tai kehityksessä oleville lisäosille. Tiimityössä olennainen muutosten jäljitettävyys on hyödyllinen myös yksintyöskentelyssä.
@@ -33,3 +35,5 @@ En ole vieläkään suvereeni gitin käyttäjä ja joudun todennäköisesti mont
 Mielestäni oppimateriaalien visualisointi on tärkeää ja kuvia olikin käytetty hyvin havainnollistamaan esimerkiksi ``Git projektissa``-osuuden rinnakkaiskoodausesimerkeissä. Repositorion versiohistorian kuvauksissa kuitenkin olisi hyvä tähdentää, miksi nuolet eri kuplien välillä kulkevat eri suuntaan kuin versiohistoria menee. Lieneekö tässä jonkinlainen joki-vertaus (upstream), että aiemmat versiot ovat ikäänkuin projektin "yläjuoksu".
 
 Tuleville toteutuksille esimerkiksi opetusvideot voisivat olla uusi median muoto mitä hyödyntää.
+
+[Takaisin etusivulle](README.md)
